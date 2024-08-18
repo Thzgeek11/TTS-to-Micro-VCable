@@ -146,11 +146,6 @@ def input_text():
                             input_buffer += ' '
                             print(f"\rTexte actuel : '{input_buffer}'", end="")
                         elif event.name == 'q' and (keyboard.is_pressed('alt')):
-                            text_queue.put('quit')
-                            start_input_event.clear()  # Désactiver la saisie
-                            pyautogui.FAILSAFE = True
-                            exit
-                        elif event.name == 'm' and (keyboard.is_pressed('alt')):
                             exit()
                         elif not event.name in ['shift', 'ctrl', 'alt', 'capslock', '&', '"', ]:
                             # Ajouter le caractère au buffer de texte
