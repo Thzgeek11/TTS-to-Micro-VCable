@@ -1,6 +1,6 @@
 # TTS To Micro (VCable) - Convertisseur de Texte en Parole avec V-Cable
 
-**Text2SpeechVC** est un programme Python qui convertit du texte en parole en utilisant la bibliothèque `gTTS` (Google Text-to-Speech) et joue l'audio simultanément sur plusieurs périphériques, y compris le périphérique virtuel **Virtual Cable (V-Cable)**. Ce programme est conçu pour une utilisation simple et rapide, intégrant des fonctionnalités pratiques telles que la gestion des abréviations et une interface utilisateur de saisie de texte interactive.
+**TTS To Micro (VCable)** est un programme Python qui convertit du texte en parole en utilisant la bibliothèque `gTTS` (Google Text-to-Speech) et joue l'audio simultanément sur plusieurs périphériques, y compris le périphérique virtuel **Virtual Cable (V-Cable)**. Ce programme est conçu pour une utilisation simple et rapide, intégrant des fonctionnalités pratiques telles que la gestion des abréviations et une interface utilisateur de saisie de texte interactive.
 
 ## Fonctionnalités principales
 
