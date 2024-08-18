@@ -5,9 +5,10 @@
 ### Fonctionnalités principales
 
 - **Conversion de texte en parole** : Utilise `gTTS` pour convertir du texte en fichiers audio.
-- **Lecture audio multi-périphérique** : Joue l'audio sur un périphérique de sortie principal (comme les haut-parleurs) et sur **Virtual Cable** en même temps, ce qui permet une grande flexibilité pour l'envoi du son à d'autres applications.
+- **Lecture audio multi-périphérique** : Joue l'audio sur un périphérique de sortie principal (comme les haut-parleurs) et sur **Virtual Cable** en même temps.
 - **Gestion des abréviations** : Remplace automatiquement les abréviations dans le texte par leur version complète grâce à un fichier JSON configurable (`abbreviations.json`).
-- **Interface de saisie de texte interactive** : Capture le texte de l'utilisateur via le clavier avec confirmation de saisie, permet l'utilisation de raccourcis clavier pour démarrer la saisie, confirmer l'entrée, ou quitter le programme.
+- **Interface de saisie de texte interactive** : Capture le texte de l'utilisateur via le clavier avec confirmation de saisie, permet l'utilisation de raccourcis clavier pour démarrer la saisie, confirmer l'entrée, ou quitter le programme
+    sans devoir être dans la fenêtre.
 
 ### Utilisation
 
