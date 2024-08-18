@@ -29,10 +29,9 @@
     - Appuyez sur `Alt` pour commencer la saisie.
     - Entrez votre texte.
     - Appuyez sur `Enter` pour confirmer et entendre le texte converti en parole.
-    - Appuyez sur `Alt + Q` pour annuler la saisie en cours.
 
 4. **Quitter** :
-    - Appuyez sur `Alt + M` pour quitter le programme.
+    - Appuyez sur `Alt + Q` pour quitter le programme.
 
 ## Installation
 
